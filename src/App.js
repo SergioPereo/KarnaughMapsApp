@@ -11,7 +11,7 @@ class App extends Component {
             <div className="component">
               <h1 className="title is-1">
                 Input how many variables your truth table going to have
-                </h1>
+              </h1>
             </div>
             <div className="component">
               <input className="input is-primary" placeholder="1, 2, 3..." type="text"/>
